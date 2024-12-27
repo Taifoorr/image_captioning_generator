@@ -1,4 +1,4 @@
-# Image Captioning using Deep Learning
+# Image Captioning using Deep Learning and computer vision
 
 This project implements an image captioning system using a combination of CNN (VGG16) and LSTM networks. The model can generate natural language descriptions for input images.
 
